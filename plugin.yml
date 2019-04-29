@@ -1,0 +1,8 @@
+name: BubbleMC
+main: net.bubblemc.main.Main
+version: 1.0
+author: Hu3diger
+commands: 
+    bubblemc:
+      description: Send a Hello message to the player
+      usage: /<command>
